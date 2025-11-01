@@ -38,14 +38,6 @@ I also write about **system design, AI, and scalable backend architecture** at [
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hieuphamnt8&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hieuphamnt8&layout=compact&theme=tokyonight" height="165" />
-</p>
-
----
-
 ### ☕ Support My Work
 If you enjoy what I build or write, consider  
 👉 **[Buying me a coffee](https://buymeacoffee.com/hieuphamnt8)** — it keeps the ideas flowing and the servers running ☕  
