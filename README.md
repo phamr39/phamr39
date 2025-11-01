@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hi there, I'm Neutrino!
 
-<!--
-**phamr39/phamr39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm the **CEO & Founder of [BeaverX](https://beaverx.ai)** — an AI-powered portfolio assistant that helps users manage gold, stocks, crypto, and more, all with privacy at its core.  
 
-Here are some ideas to get you started:
+I also write about software architecture, AI systems, and dev workflows at **[ezidev.tech](https://ezidev.tech)**.  
+Most days you'll find me building, breaking, and rebuilding things that connect data, intelligence, and good design. ⚙️🚀  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💡 What I’m currently working on
+- 🧠 Scaling **BeaverX AI** models for multi-asset risk analysis  
+- 🧩 Designing modular Node.js/Java backend stacks with Redis, Kafka, and DynamoDB  
+- 📱 Building seamless UI/UX experiences for Flutter & Next.js apps  
+- 🔐 Privacy-first system design & developer tools for creators  
+
+---
+
+### ☕ Support my work
+If you enjoy what I build or write, you can **[buy me a coffee ☕](https://buymeacoffee.com/hieuphamnt8)** — it helps fuel the next late-night build session!
+
+---
+
+> _“Always building. Always learning.”_
