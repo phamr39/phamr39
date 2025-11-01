@@ -11,7 +11,7 @@
 ---
 
 ### 🧭 About Me
-I'm the **CEO & Founder of [BeaverX](https://beaverx.ai)** — an AI-powered, privacy-first investment assistant for managing multi-asset portfolios across gold, stocks, crypto, and more.  
+I'm the **Founder of [BeaverX](https://beaverx.ai)** — an AI-powered, privacy-first investment assistant for managing multi-asset portfolios across gold, stocks, crypto, and more.  
 I also write about **system design, AI, and scalable backend architecture** at [ezidev.tech](https://ezidev.tech).
 
 ---
