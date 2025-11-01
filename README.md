@@ -24,7 +24,7 @@ I also write about **system design, AI, and scalable backend architecture** at [
 - 📝 [**Ezidev.tech — Technical Blog**](https://ezidev.tech): sharing insights on **AI systems, software architecture, and modern web frameworks (Next.js, Flutter)**.  
   Focused on tools and articles that help developers write cleaner, more efficient code while staying up-to-date with new technologies.
 
-- 🌐 [**dSuite — A Set of Web3 Applications**](https://devpost.com/software/dsuite): received a **$30K grant from NEAR Foundation**.  
+- 🌐 [**dSuite — A Set of Web3 Applications**](https://devpost.com/software/dsuite): received a **~$30K grant + $20k Cash Prize from NEAR Foundation**.  
   Built a suite of decentralized apps (`dForm`, `dEvent`, `dCalendar`) on the **NEAR Protocol**, integrating blockchain with modern web frameworks.  
   **Tech Stack:** Next.js, TypeScript, Rust, Django, Express, Docker, GitHub Actions, GitLab Runner.  
   > Repo: [github.com/dformteam/MetaBUILD](https://github.com/dformteam/MetaBUILD)
